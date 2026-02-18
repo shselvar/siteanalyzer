@@ -1,0 +1,8 @@
+Total messages: 6 (Errors: 1, Warnings: 2)
+
+[ERROR] Failed to load resource: net::ERR_TUNNEL_CONNECTION_FAILED @ https://j02.optimix.asia/events/opxLoader.js:0
+[INFO] Smartech Initiated @ https://osjs.netcoresmartech.com/v1/js-versioning?clientkey=ADGMOT35CHFLVDHBJNIG50K96ARDDLT3SQCIL9T9UKBRRJD76TK0&siteid=c990a2e67d14bb502187cbc5ece0a701&rc=s&tk1=20241129111433&tk2=20241218010724:1
+[LOG] 1843258526.1771419942 @ https://www.myaerotel.com/en-uk/about-aerotel/work-with-us:1101
+[WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[WARNING] An iframe which has both allow-scripts and allow-same-origin for its sandbox attribute can escape its sandboxing. @ about:srcdoc:0
+[LOG] [Array(2), Array(2), Array(2), Array(2)] @ https://osjs.netcoresmartech.com/v1/js-versioning?clientkey=ADGMOT35CHFLVDHBJNIG50K96ARDDLT3SQCIL9T9UKBRRJD76TK0&siteid=c990a2e67d14bb502187cbc5ece0a701&rc=s&tk1=20241129111433&tk2=20241218010724:1
